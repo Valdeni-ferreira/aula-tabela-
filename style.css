@@ -1,0 +1,27 @@
+h1 {
+background-color: aqua;
+
+}
+
+h2 {
+background-color: yellow;
+
+}
+
+h3 {
+background-color: blueviolet;
+
+}
+
+.preço {
+    background-color: antiquewhite; 
+    font-size: 18px;
+    color: rgb(66, 63, 63);
+
+}
+
+.preço span {
+    font-size: 22px;
+    color: black;
+}
+    

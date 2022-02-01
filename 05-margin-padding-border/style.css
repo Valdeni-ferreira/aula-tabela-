@@ -1,0 +1,41 @@
+
+ /* Essa forma seria colocar cada lateral separada
+   margin-top : 30px;
+   margin-bottom: 30px;
+   margin-left: 30px;
+   margin-right: 30px; */
+/*
+Essa forma coloca o mesmo valor no topo e nas laterais
+margin: 30px 15px; */
+
+/* Essa forma abaixo é a forma encurtada que chamamos de short hand*/
+
+   p{
+       margin: 30px 15px;
+       padding: 20px;
+       background-color: aquamarine;
+       
+      /* 
+       border-style: solid;
+       border-width: 20px;
+       border-color: red;
+       */
+
+       border: 20px solid red;
+       
+   }
+
+   h1 {
+    /*
+    border-style: solid;
+    border-width: 20px;
+    border-top-color: red;
+    border-bottom: orange;
+    border-left: blueviolet;
+    border-right: cyan;
+    */
+
+    border-color: red orange blueviolet cyan;
+
+   }
+

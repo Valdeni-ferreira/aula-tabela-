@@ -1,0 +1,26 @@
+html {
+    background-color: darkgray;
+    font-size: 32px;
+
+}
+
+/* 1em = 16 pixels*/
+
+body {
+
+    background-color: darkorange;
+    width: 50%;
+    font-size: 3rem;
+}
+
+.pai {
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 1.5rem;
+}
+
+.filha {
+    background-color: chartreuse;
+    width: 50%;
+    font-size: 0.5rem;
+}
